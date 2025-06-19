@@ -5,7 +5,7 @@ The tech stacks to be included in this project are:
 - Version control - Git and GitHub
 -  Design tools - Figma for UI/UX design.
 
-*UI/UX Design Planning*
+_UI/UX Design Planning_
 The design goals for this project are:
 - Create an intuitive booking flow for the users
 - Ensure the application has fast loading times
