@@ -37,9 +37,28 @@ It is important to have a well-designed booking system as it reduces friction in
     _Project Roles and Responsibilities_
    - Project manager oversees timeline, coordinates team, and manages deliverables.
    - Frontend Developers: Implement UI components, ensure responsive design.
-   - Backend Developers: Build APIs, manage database, implement business logic
+   - Backend Developers: Build APIs, manage the database, and implement business logic
    - Designers: Create mockups, maintain design systems, and ensure UX quality.
    - QA/Testers: Write test cases, perform testing, and report bugs.
    - DevOps Engineers: Manages deployment, CI/CD pipeline, server infrastructure.
    - Product owner: Defines requirements, prioritizes features, and represents stakeholders.
-   - Scrum Master: facilitates agile processes, removes blockers, and organizes meetings. 
+   - Scrum Master: facilitates agile processes, removes blockers, and organizes meetings.
+
+ _UI Component Patterns_
+ -
+ The following are the planned components of the project:
+1. Navbar:
+   - Logo.
+   - Search bar
+   - User navigation
+   - Responsive menu
+2. Property card:
+    - Property image.
+    - Basic details(price, location, rating)
+    - Favorite button
+    - Responsive layout
+3. Footer:
+    - Site links
+    - Company info
+    - Social media links
+    - Copyright information
