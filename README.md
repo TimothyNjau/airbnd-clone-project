@@ -4,7 +4,7 @@ The tech stacks to be included in this project are:
 1. Frontend - HTML, CSS, React
 2. Version control - Git and GitHub
 3. Design tools - Figma for UI/UX design.
-~UI/UX Design Planning~
+/*UI/UX Design Planning*/
 The design goals for this project are:
 - Create an intuitive booking flow for the users
 - Ensure the application has fast loading times
