@@ -16,12 +16,12 @@ Key Features for the project include:
 - Property search and filtering
 - User authentication
 - Secure checkout process
-- Property search and filtering  \
+- Property search and filtering  
 The following are the primary pages of the application:
 - Property Listing view - Grid display of available properties with filters
 - Listing Detailed view - Complete property details with images and booking form.
-- Simple Checkout view - Streamlined payment and booking confirmation.\  
-It is important to have a well-designed booking system as it reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.\
+- Simple Checkout view - Streamlined payment and booking confirmation.  
+It is important to have a well-designed booking system as it reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.  
 -Design Specifications-
  - Color styles:
     - Primary: #ff5a5f
@@ -29,10 +29,10 @@ It is important to have a well-designed booking system as it reduces friction in
     - Background: #ffffff
     - Text: #222222
     - Secondary text: #717171
-   - Typography:
+  - Typography:
       - Primary font: circular, medium(500), 16px
       - Headings: circular, Bold(700), 24px - 32px
-      - Secondary text: circular, Book(400), 14px\
+      - Secondary text: circular, Book(400), 14px  
 
     _Project Roles and Responsibilities_
    - Project manager oversees timeline, coordinates team, and manages deliverables.
